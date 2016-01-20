@@ -19,6 +19,9 @@ public class JavaApplication2 {
         
         
         /* prvni zmena v master */
+        
+        /* prvni zmena v feature1 */
+        
     }
     
 }
