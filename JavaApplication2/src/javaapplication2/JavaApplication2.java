@@ -19,6 +19,8 @@ public class JavaApplication2 {
         
         
         /* prvni zmena v master */
+        
+        /* druha zmena v master */
     }
     
 }
