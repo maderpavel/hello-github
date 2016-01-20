@@ -22,6 +22,9 @@ public class JavaApplication2 {
         
         /* prvni zmena v feature1 */
         
+        /* druha zmena v feature1 */
+        
+        /* treti zmena v feature1 */
     }
     
 }
