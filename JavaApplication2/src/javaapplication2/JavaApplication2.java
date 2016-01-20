@@ -23,6 +23,12 @@ public class JavaApplication2 {
         /* druha zmena v master */
         
         /* treti zmena v master */
+        
+        /* prvni zmena v feature1 */
+        
+        /* druha zmena v feature1 */
+        
+        /* treti zmena v feature1 */
     }
     
 }
